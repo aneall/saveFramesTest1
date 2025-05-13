@@ -41,7 +41,7 @@ print(f"Columns {columns_to_replace} values replaced with 1 in {output_path}")
 # Instructions to run script:
     # 1. Open new terminal
     # 2. Change directory (cd) to script path
-    # 3. Run the following command in the terminal: python3 parseAriaClosedTrajectoryCSV.py
+    # 3. Run the following command in the terminal: python3 parseAriaPoseCSV.py
 # Instructions to view cleaned CSV file:
     # 1. Change directory (cd) to same path as your output_path variable
     # 2. Open in application of choice (e.g. Microsoft Excel)
